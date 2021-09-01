@@ -1,0 +1,21 @@
+.to-do-list {
+  display: flex;
+  align-items: center;
+  padding: 0.4rem 0;
+}
+
+.to-do-list input {
+  width: 100%;
+  border: none;
+  outline: none !important;
+}
+
+.to-do-list .dot {
+  height: 0.5rem;
+  cursor: pointer;
+  width: 0.5rem;
+  margin: 0 0.4rem;
+  background-color: rgb(41, 41, 41);
+  border-radius: 50%;
+  display: inline-block;
+}

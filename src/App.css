@@ -1,0 +1,13 @@
+.to-do {
+  text-align: left;
+}
+
+.to-do .sub-list {
+  border-inline-start: 1px solid #e8e8e8;
+  margin-inline-start: 0.6rem;
+}
+
+.to-do ul {
+  list-style-type: none !important;
+  padding-inline-start: 1rem !important;
+}
